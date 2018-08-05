@@ -62,5 +62,5 @@ microweber:install [-p|--prefix[="..."]] [-t|--template[="..."]] [-d|--default-c
 
 #### Update command
 
-`php artisan microwber:update`
+`php artisan microweber:update`
 
